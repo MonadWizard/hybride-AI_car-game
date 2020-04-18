@@ -9,4 +9,4 @@
 
 for execution run :
 
-``` pip3 install -r requirements.txt ```
+``` pip3 install -r req.txt ```
